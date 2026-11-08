@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1424" height="132" viewBox="0 0 1424 132">
+<rect width="1424" height="132" rx="6" fill="#14141c"/>
+<g font-family="JetBrains Mono, DejaVu Sans Mono, Menlo, Consolas, monospace" font-size="12">
+<rect x="16" y="16" width="132" height="64" fill="#1e1e28" stroke="#2b1c22"/>
+<text x="16" y="100" fill="#e2dccd">background</text>
+<text x="16" y="116" fill="#a39d90">#1e1e28</text>
+<rect x="156" y="16" width="132" height="64" fill="#14141c" stroke="#2b1c22"/>
+<text x="156" y="100" fill="#e2dccd">chrome</text>
+<text x="156" y="116" fill="#a39d90">#14141c</text>
+<rect x="296" y="16" width="132" height="64" fill="#232330" stroke="#2b1c22"/>
+<text x="296" y="100" fill="#e2dccd">surface</text>
+<text x="296" y="116" fill="#a39d90">#232330</text>
+<rect x="436" y="16" width="132" height="64" fill="#e2dccd" stroke="#2b1c22"/>
+<text x="436" y="100" fill="#e2dccd">text</text>
+<text x="436" y="116" fill="#a39d90">#e2dccd</text>
+<rect x="576" y="16" width="132" height="64" fill="#ff766d" stroke="#2b1c22"/>
+<text x="576" y="100" fill="#e2dccd">accent / blocked</text>
+<text x="576" y="116" fill="#a39d90">#ff766d</text>
+<rect x="716" y="16" width="132" height="64" fill="#77f8ff" stroke="#2b1c22"/>
+<text x="716" y="100" fill="#e2dccd">cyan / done</text>
+<text x="716" y="116" fill="#a39d90">#77f8ff</text>
+<rect x="856" y="16" width="132" height="64" fill="#ffd755" stroke="#2b1c22"/>
+<text x="856" y="100" fill="#e2dccd">yellow / working</text>
+<text x="856" y="116" fill="#a39d90">#ffd755</text>
+<rect x="996" y="16" width="132" height="64" fill="#6fb1ff" stroke="#2b1c22"/>
+<text x="996" y="100" fill="#e2dccd">blue</text>
+<text x="996" y="116" fill="#a39d90">#6fb1ff</text>
+<rect x="1136" y="16" width="132" height="64" fill="#a39d90" stroke="#2b1c22"/>
+<text x="1136" y="100" fill="#e2dccd">muted</text>
+<text x="1136" y="116" fill="#a39d90">#a39d90</text>
+<rect x="1276" y="16" width="132" height="64" fill="#4d4943" stroke="#2b1c22"/>
+<text x="1276" y="100" fill="#e2dccd">subtle</text>
+<text x="1276" y="116" fill="#a39d90">#4d4943</text>
+</g></svg>
